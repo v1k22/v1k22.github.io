@@ -14,6 +14,8 @@ twitter_username: "v1k_22"
 #########################################################################################
 theme: "minima"
 
+rss: rss
+
 kramdown:
   syntax_highlighter_opts:
     disable: true
