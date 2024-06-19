@@ -10,5 +10,5 @@ def happy_ml():
 ```
 
 <center>
-  <img src="assets/cat.png" width="200" height="200" alt="">
+  <img src="/assets/cat.png" width="200" height="200" alt="">
 </center>
