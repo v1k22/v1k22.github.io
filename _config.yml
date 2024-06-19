@@ -5,7 +5,7 @@ description: "Decrypting ML Neurons here." # This will show up in places like tw
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 # email: "dhandhalyabhavik@gmail.com"
-# twitter_username: "v1k_22"
+twitter_username: "v1k_22"
 # github_username: "v1k22"
 # linkedin_username: "bhavik.dhandhalya"
 
@@ -13,8 +13,6 @@ description: "Decrypting ML Neurons here." # This will show up in places like tw
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
-
-rss: rss
 
 kramdown:
   syntax_highlighter_opts:
