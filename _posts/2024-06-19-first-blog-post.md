@@ -8,3 +8,7 @@ This is the fist blog post of my blog, Thanks Karpathy for inspiration.
 def happy_ml():
   print ('initializing brain weights') # but not random of course :D
 ```
+
+<center>
+  <img src="../assets/cat.png" width="200" height="200" alt="">
+</center>
