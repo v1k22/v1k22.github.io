@@ -41,3 +41,9 @@ def forward(self, idx, targets):
         loss = F.cross_entropy(resized_logits, resized_targets)
         return logits, loss
 ```
+
+### References:
+
+[1. pytorch.org/docs/stable/generated/torch.nn.functional.cross_entropy.html](https://pytorch.org/docs/stable/generated/torch.nn.functional.cross_entropy.html)
+
+[2. pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html#torch.nn.CrossEntropyLoss](https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html#torch.nn.CrossEntropyLoss)
