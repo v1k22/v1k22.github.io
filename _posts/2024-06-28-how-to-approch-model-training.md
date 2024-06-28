@@ -37,6 +37,9 @@ Introduce more parameters to your Optimizer AdamW, add decay, biases etc.
 ### Step 10. (Most effective)
 Add Gradient Accumulation steps for larger batch size. This will slow down your performance but accuracy gain is worth more.
 For sample output, I am attaching the loss results of GPT2 on smaller dataset, they look really good, feels like it is learning accuratly,
+
+![image](https://github.com/v1k22/v1k22.github.io/assets/8783818/27341132-8230-4078-840e-233420bf1057)
+
 ```
 step 0, loss: 10.962733268737793, norm: 27.9385, dt: 34471.31ms
 step 1, loss: 9.589015007019043, norm: 5.3188, dt: 32755.56ms
@@ -93,3 +96,4 @@ step 49, loss: 5.733333110809326, norm: 1.1660, dt: 32577.68ms
 
 
 ### References:
+[Lets Reproduce GPT2(124M)](https://www.youtube.com/watch?v=l8pRSuU81PU)
